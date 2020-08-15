@@ -1,7 +1,5 @@
 package command;
 
-import java.io.File;
-
 public class OpenTextFileOperation implements TextFileOperation {
     private TextFile textFile;
 
